@@ -1,6 +1,6 @@
 {
   "name": "@highdigital/vuet",
-  "version": "0.10.4",
+  "version": "0.11.0",
   "scripts": {
     "serve": "yarn create-index-files && vue-cli-service serve",
     "build": "yarn create-index-files && vue-cli-service build --target lib --name storefront-ui ./src/index.js",
