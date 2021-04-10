@@ -1,5 +1,5 @@
 {
-  "name": "@storefront-ui/vue",
+  "name": "@highdigital/vuet",
   "version": "0.10.4",
   "scripts": {
     "serve": "yarn create-index-files && vue-cli-service serve",

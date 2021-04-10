@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DivanteLtd/storefront-ui.git"
+    "url": "git+ssh://git@bitbucket.org:highdigitalde/storefront-ui-clearvat.git"
   },
   "author": "",
   "license": "MIT",
