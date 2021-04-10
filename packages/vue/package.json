@@ -23,13 +23,14 @@
     "scripts/*",
     "src/*",
     "index.js",
+    "public/*",
     "config/storybook/decorators.js",
     "storiesOf.js",
     "styles.scss"
   ],
   "dependencies": {
     "@glidejs/glide": "^3.3.0",
-    "@highdigital/sharedt": "0.11.1",
+    "@highdigital/sharedt": "0.11.3",
     "body-scroll-lock": "^3.0.1",
     "cloudinary-build-url": "^0.1.1",
     "core-js": "^3.6.5",
