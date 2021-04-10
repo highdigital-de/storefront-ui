@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.11.3](https://bitbucket.org/highdigitalde/storefront-ui-clearvat/compare/@highdigital/vuet@0.11.2...@highdigital/vuet@0.11.3) (2021-04-10)
+
+
+### Bug Fixes
+
+* ad public folder to package ([7104250](https://bitbucket.org/highdigitalde/storefront-ui-clearvat/commits/7104250ae4f76b2d15e1e3d7c907734ea4f68edf))
+
+
+
+
+
 ## [0.11.2](https://bitbucket.org/highdigitalde/storefront-ui-clearvat/compare/@highdigital/vuet@0.11.1...@highdigital/vuet@0.11.2) (2021-04-10)
 
 **Note:** Version bump only for package @highdigital/vuet
