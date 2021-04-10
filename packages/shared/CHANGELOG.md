@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.11.4](https://bitbucket.org/highdigitalde/storefront-ui-clearvat/compare/@highdigital/sharedt@0.11.1...@highdigital/sharedt@0.11.4) (2021-04-10)
+
+
+### Bug Fixes
+
+* ad public folder to package ([52ae500](https://bitbucket.org/highdigitalde/storefront-ui-clearvat/commits/52ae500c176bf04fd56a08b56c7139622b6cea3e))
+
+
+
+
+
 ## [0.11.1](https://bitbucket.org/highdigitalde/storefront-ui-clearvat/compare/@highdigital/sharedt@0.11.0...@highdigital/sharedt@0.11.1) (2021-04-10)
 
 **Note:** Version bump only for package @highdigital/sharedt
