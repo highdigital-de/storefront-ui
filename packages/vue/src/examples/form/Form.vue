@@ -234,7 +234,6 @@ import {
   SfInput,
   SfComponentSelect,
   SfButton,
-  SfTextarea,
   SfRadio,
 } from "@storefront-ui/vue";
 export default {
@@ -243,7 +242,6 @@ export default {
     SfButton,
     SfInput,
     SfComponentSelect,
-    SfTextarea,
     SfRadio,
   },
   data() {
