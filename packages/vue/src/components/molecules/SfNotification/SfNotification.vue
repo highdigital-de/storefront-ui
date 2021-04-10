@@ -130,5 +130,5 @@ export default {
 };
 </script>
 <style lang="scss">
-@import "~@storefront-ui/shared/styles/components/molecules/SfNotification.scss";
+@import "~@highdigital/sharedt/styles/components/molecules/SfNotification.scss";
 </style>

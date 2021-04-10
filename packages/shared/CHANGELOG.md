@@ -335,7 +335,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.10.4](https://github.com/vuestorefront/storefront-ui/compare/@storefront-ui/shared@0.10.3...@storefront-ui/shared@0.10.4) (2021-03-22)
+## [0.10.4](https://github.com/vuestorefront/storefront-ui/compare/@highdigital/sharedt@0.10.3...@highdigital/sharedt@0.10.4) (2021-03-22)
 
 
 ### Bug Fixes
@@ -347,31 +347,31 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.10.3](https://github.com/vuestorefront/storefront-ui/compare/@storefront-ui/shared@0.10.3...@storefront-ui/shared@0.10.3) (2021-02-16)
+## [0.10.3](https://github.com/vuestorefront/storefront-ui/compare/@highdigital/sharedt@0.10.3...@highdigital/sharedt@0.10.3) (2021-02-16)
 
-**Note:** Version bump only for package @storefront-ui/shared
-
-
-
-
-
-## [0.10.3](https://github.com/vuestorefront/storefront-ui/compare/@storefront-ui/shared@0.10.2...@storefront-ui/shared@0.10.3) (2021-02-16)
-
-**Note:** Version bump only for package @storefront-ui/shared
+**Note:** Version bump only for package @highdigital/sharedt
 
 
 
 
 
-## [0.10.2](https://github.com/vuestorefront/storefront-ui/compare/@storefront-ui/shared@0.10.1...@storefront-ui/shared@0.10.2) (2021-02-04)
+## [0.10.3](https://github.com/vuestorefront/storefront-ui/compare/@highdigital/sharedt@0.10.2...@highdigital/sharedt@0.10.3) (2021-02-16)
 
-**Note:** Version bump only for package @storefront-ui/shared
-
-
+**Note:** Version bump only for package @highdigital/sharedt
 
 
 
-## [0.10.1](https://github.com/vuestorefront/storefront-ui/compare/@storefront-ui/shared@0.10.0...@storefront-ui/shared@0.10.1) (2021-02-02)
+
+
+## [0.10.2](https://github.com/vuestorefront/storefront-ui/compare/@highdigital/sharedt@0.10.1...@highdigital/sharedt@0.10.2) (2021-02-04)
+
+**Note:** Version bump only for package @highdigital/sharedt
+
+
+
+
+
+## [0.10.1](https://github.com/vuestorefront/storefront-ui/compare/@highdigital/sharedt@0.10.0...@highdigital/sharedt@0.10.1) (2021-02-02)
 
 
 ### Bug Fixes
@@ -385,7 +385,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [0.10.0](https://github.com/AdamPawlinski/storefront-ui-adam/compare/@storefront-ui/shared@0.9.1...@storefront-ui/shared@0.10.0) (2021-01-13)
+# [0.10.0](https://github.com/AdamPawlinski/storefront-ui-adam/compare/@highdigital/sharedt@0.9.1...@highdigital/sharedt@0.10.0) (2021-01-13)
 
 ### Bug Fixes
 
@@ -479,7 +479,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 * unique class names ([216771f](https://github.com/AdamPawlinski/storefront-ui-adam/commit/216771f269d08a48f185d3ddb779ec95f5e0f4c4))
 
 
-## [0.9.2](https://github.com/AdamPawlinski/storefront-ui-adam/compare/@storefront-ui/shared@0.9.1...@storefront-ui/shared@0.9.2) (2020-11-13)
+## [0.9.2](https://github.com/AdamPawlinski/storefront-ui-adam/compare/@highdigital/sharedt@0.9.1...@highdigital/sharedt@0.9.2) (2020-11-13)
 
 
 ### Bug Fixes
@@ -529,7 +529,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.9.1](https://github.com/AdamPawlinski/storefront-ui-adam/compare/@storefront-ui/shared@0.9.0...@storefront-ui/shared@0.9.1) (2020-10-02)
+## [0.9.1](https://github.com/AdamPawlinski/storefront-ui-adam/compare/@highdigital/sharedt@0.9.0...@highdigital/sharedt@0.9.1) (2020-10-02)
 
 
 ### Bug Fixes
@@ -542,7 +542,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [0.9.0](https://github.com/AdamPawlinski/storefront-ui-adam/compare/@storefront-ui/shared@0.8.1...@storefront-ui/shared@0.9.0) (2020-09-28)
+# [0.9.0](https://github.com/AdamPawlinski/storefront-ui-adam/compare/@highdigital/sharedt@0.8.1...@highdigital/sharedt@0.9.0) (2020-09-28)
 
 
 ### Bug Fixes
@@ -583,7 +583,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 * refactor: organisms ([#1351](https://github.com/DivanteLtd/storefront-ui/pull/1351))
 * refactor: SfDropdown changing api ([#1342](https://github.com/DivanteLtd/storefront-ui/pull/1342))
 
-## [0.8.1](https://github.com/AdamPawlinski/storefront-ui-adam/compare/@storefront-ui/shared@0.7.17...@storefront-ui/shared@0.8.1) (2020-09-04)
+## [0.8.1](https://github.com/AdamPawlinski/storefront-ui-adam/compare/@highdigital/sharedt@0.7.17...@highdigital/sharedt@0.8.1) (2020-09-04)
 
 
 ### Bug Fixes
@@ -603,7 +603,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 * release/0.8.0 ([#1377](https://github.com/AdamPawlinski/storefront-ui-adam/issues/1377)) ([0511d3a](https://github.com/AdamPawlinski/storefront-ui-adam/commit/0511d3ae712f1acbd896b2f9a88ded9375e7836f)), closes [#1012](https://github.com/AdamPawlinski/storefront-ui-adam/issues/1012) [#1017](https://github.com/AdamPawlinski/storefront-ui-adam/issues/1017) [#1035](https://github.com/AdamPawlinski/storefront-ui-adam/issues/1035) [#1082](https://github.com/AdamPawlinski/storefront-ui-adam/issues/1082) [#1186](https://github.com/AdamPawlinski/storefront-ui-adam/issues/1186) [#1156](https://github.com/AdamPawlinski/storefront-ui-adam/issues/1156) [#1205](https://github.com/AdamPawlinski/storefront-ui-adam/issues/1205) [#1228](https://github.com/AdamPawlinski/storefront-ui-adam/issues/1228) [#1183](https://github.com/AdamPawlinski/storefront-ui-adam/issues/1183) [#1215](https://github.com/AdamPawlinski/storefront-ui-adam/issues/1215) [#1210](https://github.com/AdamPawlinski/storefront-ui-adam/issues/1210) [#1204](https://github.com/AdamPawlinski/storefront-ui-adam/issues/1204) [#1227](https://github.com/AdamPawlinski/storefront-ui-adam/issues/1227) [#1226](https://github.com/AdamPawlinski/storefront-ui-adam/issues/1226) [#1220](https://github.com/AdamPawlinski/storefront-ui-adam/issues/1220) [#1231](https://github.com/AdamPawlinski/storefront-ui-adam/issues/1231) [#1237](https://github.com/AdamPawlinski/storefront-ui-adam/issues/1237) [#1239](https://github.com/AdamPawlinski/storefront-ui-adam/issues/1239) [#1251](https://github.com/AdamPawlinski/storefront-ui-adam/issues/1251) [#1246](https://github.com/AdamPawlinski/storefront-ui-adam/issues/1246) [#1247](https://github.com/AdamPawlinski/storefront-ui-adam/issues/1247) [#1248](https://github.com/AdamPawlinski/storefront-ui-adam/issues/1248) [#1270](https://github.com/AdamPawlinski/storefront-ui-adam/issues/1270) [#1272](https://github.com/AdamPawlinski/storefront-ui-adam/issues/1272) [#1283](https://github.com/AdamPawlinski/storefront-ui-adam/issues/1283) [#1295](https://github.com/AdamPawlinski/storefront-ui-adam/issues/1295) [#1266](https://github.com/AdamPawlinski/storefront-ui-adam/issues/1266) [#1292](https://github.com/AdamPawlinski/storefront-ui-adam/issues/1292) [#1286](https://github.com/AdamPawlinski/storefront-ui-adam/issues/1286) [#1312](https://github.com/AdamPawlinski/storefront-ui-adam/issues/1312) [#1304](https://github.com/AdamPawlinski/storefront-ui-adam/issues/1304) [#1305](https://github.com/AdamPawlinski/storefront-ui-adam/issues/1305) [#1312](https://github.com/AdamPawlinski/storefront-ui-adam/issues/1312) [#1304](https://github.com/AdamPawlinski/storefront-ui-adam/issues/1304) [#1293](https://github.com/AdamPawlinski/storefront-ui-adam/issues/1293) [#1287](https://github.com/AdamPawlinski/storefront-ui-adam/issues/1287) [#1290](https://github.com/AdamPawlinski/storefront-ui-adam/issues/1290) [#1212](https://github.com/AdamPawlinski/storefront-ui-adam/issues/1212) [#1316](https://github.com/AdamPawlinski/storefront-ui-adam/issues/1316) [#1250](https://github.com/AdamPawlinski/storefront-ui-adam/issues/1250) [#1318](https://github.com/AdamPawlinski/storefront-ui-adam/issues/1318) [#1282](https://github.com/AdamPawlinski/storefront-ui-adam/issues/1282) [#1325](https://github.com/AdamPawlinski/storefront-ui-adam/issues/1325) [#1324](https://github.com/AdamPawlinski/storefront-ui-adam/issues/1324) [#1331](https://github.com/AdamPawlinski/storefront-ui-adam/issues/1331) [#1332](https://github.com/AdamPawlinski/storefront-ui-adam/issues/1332) [#1313](https://github.com/AdamPawlinski/storefront-ui-adam/issues/1313) [#1330](https://github.com/AdamPawlinski/storefront-ui-adam/issues/1330) [#1315](https://github.com/AdamPawlinski/storefront-ui-adam/issues/1315) [#1265](https://github.com/AdamPawlinski/storefront-ui-adam/issues/1265) [#1336](https://github.com/AdamPawlinski/storefront-ui-adam/issues/1336) [#1250](https://github.com/AdamPawlinski/storefront-ui-adam/issues/1250)
 
 
-# [0.8.0](https://github.com/AdamPawlinski/storefront-ui-adam/compare/@storefront-ui/shared@0.7.17...@storefront-ui/shared@0.8.0) (2020-08-18)
+# [0.8.0](https://github.com/AdamPawlinski/storefront-ui-adam/compare/@highdigital/sharedt@0.7.17...@highdigital/sharedt@0.8.0) (2020-08-18)
 
 
 ### Bug Fixes
@@ -646,15 +646,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.7.17](https://github.com/DivanteLtd/storefront-ui/compare/@storefront-ui/shared@0.7.16...@storefront-ui/shared@0.7.17) (2020-07-03)
+## [0.7.17](https://github.com/DivanteLtd/storefront-ui/compare/@highdigital/sharedt@0.7.16...@highdigital/sharedt@0.7.17) (2020-07-03)
 
-**Note:** Version bump only for package @storefront-ui/shared
-
-
+**Note:** Version bump only for package @highdigital/sharedt
 
 
 
-## [0.7.16](https://github.com/DivanteLtd/storefront-ui/compare/@storefront-ui/shared@0.7.13...@storefront-ui/shared@0.7.16) (2020-05-28)
+
+
+## [0.7.16](https://github.com/DivanteLtd/storefront-ui/compare/@highdigital/sharedt@0.7.13...@highdigital/sharedt@0.7.16) (2020-05-28)
 
 
 ### Bug Fixes
@@ -667,7 +667,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.7.13](https://github.com/DivanteLtd/storefront-ui/compare/@storefront-ui/shared@0.7.12...@storefront-ui/shared@0.7.13) (2020-05-22)
+## [0.7.13](https://github.com/DivanteLtd/storefront-ui/compare/@highdigital/sharedt@0.7.12...@highdigital/sharedt@0.7.13) (2020-05-22)
 
 
 ### Bug Fixes
@@ -684,7 +684,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.7.12](https://github.com/DivanteLtd/storefront-ui/compare/@storefront-ui/shared@0.7.11...@storefront-ui/shared@0.7.12) (2020-05-19)
+## [0.7.12](https://github.com/DivanteLtd/storefront-ui/compare/@highdigital/sharedt@0.7.11...@highdigital/sharedt@0.7.12) (2020-05-19)
 
 
 ### Bug Fixes
@@ -695,7 +695,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.7.11](https://github.com/DivanteLtd/storefront-ui/compare/@storefront-ui/shared@0.7.10...@storefront-ui/shared@0.7.11) (2020-05-14)
+## [0.7.11](https://github.com/DivanteLtd/storefront-ui/compare/@highdigital/sharedt@0.7.10...@highdigital/sharedt@0.7.11) (2020-05-14)
 
 
 ### Bug Fixes
@@ -708,7 +708,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.7.10](https://github.com/DivanteLtd/storefront-ui/compare/@storefront-ui/shared@0.7.9...@storefront-ui/shared@0.7.10) (2020-05-08)
+## [0.7.10](https://github.com/DivanteLtd/storefront-ui/compare/@highdigital/sharedt@0.7.9...@highdigital/sharedt@0.7.10) (2020-05-08)
 
 
 ### Bug Fixes
@@ -725,7 +725,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.7.9](https://github.com/DivanteLtd/storefront-ui/compare/@storefront-ui/shared@0.7.8...@storefront-ui/shared@0.7.9) (2020-05-08)
+## [0.7.9](https://github.com/DivanteLtd/storefront-ui/compare/@highdigital/sharedt@0.7.8...@highdigital/sharedt@0.7.9) (2020-05-08)
 
 
 ### Bug Fixes
@@ -743,7 +743,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.7.8](https://github.com/DivanteLtd/storefront-ui/compare/@storefront-ui/shared@0.7.7...@storefront-ui/shared@0.7.8) (2020-05-06)
+## [0.7.8](https://github.com/DivanteLtd/storefront-ui/compare/@highdigital/sharedt@0.7.7...@highdigital/sharedt@0.7.8) (2020-05-06)
 
 
 ### Features
@@ -754,7 +754,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.7.7](https://github.com/DivanteLtd/storefront-ui/compare/@storefront-ui/shared@0.7.6...@storefront-ui/shared@0.7.7) (2020-05-05)
+## [0.7.7](https://github.com/DivanteLtd/storefront-ui/compare/@highdigital/sharedt@0.7.6...@highdigital/sharedt@0.7.7) (2020-05-05)
 
 
 ### Bug Fixes
@@ -766,7 +766,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.7.6](https://github.com/DivanteLtd/storefront-ui/compare/@storefront-ui/shared@0.7.5...@storefront-ui/shared@0.7.6) (2020-05-04)
+## [0.7.6](https://github.com/DivanteLtd/storefront-ui/compare/@highdigital/sharedt@0.7.5...@highdigital/sharedt@0.7.6) (2020-05-04)
 
 
 ### Bug Fixes
@@ -788,7 +788,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.7.5](https://github.com/DivanteLtd/storefront-ui/compare/@storefront-ui/shared@0.7.3...@storefront-ui/shared@0.7.5) (2020-04-29)
+## [0.7.5](https://github.com/DivanteLtd/storefront-ui/compare/@highdigital/sharedt@0.7.3...@highdigital/sharedt@0.7.5) (2020-04-29)
 
 
 ### Bug Fixes
@@ -816,7 +816,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.7.3](https://github.com/DivanteLtd/storefront-ui/compare/@storefront-ui/shared@0.7.2...@storefront-ui/shared@0.7.3) (2020-04-23)
+## [0.7.3](https://github.com/DivanteLtd/storefront-ui/compare/@highdigital/sharedt@0.7.2...@highdigital/sharedt@0.7.3) (2020-04-23)
 
 
 ### Bug Fixes
@@ -827,7 +827,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.7.2](https://github.com/DivanteLtd/storefront-ui/compare/@storefront-ui/shared@0.7.1...@storefront-ui/shared@0.7.2) (2020-04-23)
+## [0.7.2](https://github.com/DivanteLtd/storefront-ui/compare/@highdigital/sharedt@0.7.1...@highdigital/sharedt@0.7.2) (2020-04-23)
 
 
 ### Bug Fixes
@@ -856,7 +856,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.7.1](https://github.com/DivanteLtd/storefront-ui/compare/@storefront-ui/shared@0.7.0...@storefront-ui/shared@0.7.1) (2020-04-10)
+## [0.7.1](https://github.com/DivanteLtd/storefront-ui/compare/@highdigital/sharedt@0.7.0...@highdigital/sharedt@0.7.1) (2020-04-10)
 
 
 ### Features
@@ -867,7 +867,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [0.7.0](https://github.com/DivanteLtd/storefront-ui/compare/@storefront-ui/shared@0.6.4...@storefront-ui/shared@0.7.0) (2020-04-08)
+# [0.7.0](https://github.com/DivanteLtd/storefront-ui/compare/@highdigital/sharedt@0.6.4...@highdigital/sharedt@0.7.0) (2020-04-08)
 
 
 ### Bug Fixes
@@ -891,7 +891,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.6.4](https://github.com/DivanteLtd/storefront-ui/compare/@storefront-ui/shared@0.6.3...@storefront-ui/shared@0.6.4) (2020-03-27)
+## [0.6.4](https://github.com/DivanteLtd/storefront-ui/compare/@highdigital/sharedt@0.6.3...@highdigital/sharedt@0.6.4) (2020-03-27)
 
 
 ### Bug Fixes
@@ -902,7 +902,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.6.3](https://github.com/DivanteLtd/storefront-ui/compare/@storefront-ui/shared@0.6.2...@storefront-ui/shared@0.6.3) (2020-03-26)
+## [0.6.3](https://github.com/DivanteLtd/storefront-ui/compare/@highdigital/sharedt@0.6.2...@highdigital/sharedt@0.6.3) (2020-03-26)
 
 
 ### Bug Fixes
@@ -913,7 +913,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.6.2](https://github.com/DivanteLtd/storefront-ui/compare/@storefront-ui/shared@0.6.1...@storefront-ui/shared@0.6.2) (2020-03-05)
+## [0.6.2](https://github.com/DivanteLtd/storefront-ui/compare/@highdigital/sharedt@0.6.1...@highdigital/sharedt@0.6.2) (2020-03-05)
 
 
 ### Bug Fixes
@@ -925,7 +925,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.6.1](https://github.com/DivanteLtd/storefront-ui/compare/@storefront-ui/shared@0.6.0...@storefront-ui/shared@0.6.1) (2020-02-27)
+## [0.6.1](https://github.com/DivanteLtd/storefront-ui/compare/@highdigital/sharedt@0.6.0...@highdigital/sharedt@0.6.1) (2020-02-27)
 
 
 ### Bug Fixes
@@ -945,7 +945,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [0.6.0](https://github.com/DivanteLtd/storefront-ui/compare/@storefront-ui/shared@0.5.1...@storefront-ui/shared@0.6.0) (2020-02-24)
+# [0.6.0](https://github.com/DivanteLtd/storefront-ui/compare/@highdigital/sharedt@0.5.1...@highdigital/sharedt@0.6.0) (2020-02-24)
 
 
 ### Bug Fixes
@@ -970,7 +970,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.5.1](https://github.com/DivanteLtd/storefront-ui/compare/@storefront-ui/shared@0.5.0...@storefront-ui/shared@0.5.1) (2020-01-21)
+## [0.5.1](https://github.com/DivanteLtd/storefront-ui/compare/@highdigital/sharedt@0.5.0...@highdigital/sharedt@0.5.1) (2020-01-21)
 
 
 ### Bug Fixes
@@ -983,7 +983,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [0.5.0](https://github.com/DivanteLtd/storefront-ui/compare/@storefront-ui/shared@0.4.0...@storefront-ui/shared@0.5.0) (2020-01-21)
+# [0.5.0](https://github.com/DivanteLtd/storefront-ui/compare/@highdigital/sharedt@0.4.0...@highdigital/sharedt@0.5.0) (2020-01-21)
 
 
 ### Bug Fixes

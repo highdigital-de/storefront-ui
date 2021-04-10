@@ -1,4 +1,4 @@
-import { SfProductCard } from "@storefront-ui/vue";
+import { SfProductCard } from "@highdigital/vuet";
 
 export default {
   title: "Components/Organisms/ProductCard",

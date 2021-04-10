@@ -1,4 +1,4 @@
-import { SfNotification, SfIcon } from "@storefront-ui/vue";
+import { SfNotification, SfIcon } from "@highdigital/vuet";
 export default {
   title: "Components/Molecules/Notification",
   component: SfNotification,

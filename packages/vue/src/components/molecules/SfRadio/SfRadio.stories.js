@@ -1,4 +1,4 @@
-import { SfRadio } from "@storefront-ui/vue";
+import { SfRadio } from "@highdigital/vuet";
 export default {
   title: "Components/Molecules/Radio",
   component: SfRadio,

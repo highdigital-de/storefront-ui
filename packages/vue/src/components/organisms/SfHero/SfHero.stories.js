@@ -1,4 +1,4 @@
-import { SfHero } from "@storefront-ui/vue";
+import { SfHero } from "@highdigital/vuet";
 
 export default {
   title: "Components/Organisms/Hero",

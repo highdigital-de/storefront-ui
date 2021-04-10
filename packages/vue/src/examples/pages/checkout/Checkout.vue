@@ -74,7 +74,7 @@
   </div>
 </template>
 <script>
-import { SfSteps, SfButton } from "@storefront-ui/vue";
+import { SfSteps, SfButton } from "@highdigital/vuet";
 import {
   PersonalDetails,
   Shipping,
@@ -288,7 +288,7 @@ export default {
 };
 </script>
 <style lang="scss" scoped>
-@import "~@storefront-ui/vue/styles";
+@import "~@highdigital/vuet/styles";
 #checkout {
   box-sizing: border-box;
   @include for-desktop {

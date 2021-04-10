@@ -1,4 +1,4 @@
-import { SfSelect, SfProductOption } from "@storefront-ui/vue";
+import { SfSelect, SfProductOption } from "@highdigital/vuet";
 
 const options = [
   { value: "" },

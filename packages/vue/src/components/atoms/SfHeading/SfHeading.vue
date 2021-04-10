@@ -52,5 +52,5 @@ export default {
 };
 </script>
 <style lang="scss">
-@import "~@storefront-ui/shared/styles/components/atoms/SfHeading.scss";
+@import "~@highdigital/sharedt/styles/components/atoms/SfHeading.scss";
 </style>

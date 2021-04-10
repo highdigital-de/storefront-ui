@@ -47,5 +47,5 @@ export default {
 };
 </script>
 <style lang="scss">
-@import "~@storefront-ui/shared/styles/components/atoms/SfPrice.scss";
+@import "~@highdigital/sharedt/styles/components/atoms/SfPrice.scss";
 </style>

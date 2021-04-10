@@ -1,4 +1,4 @@
-import { SfSection } from "@storefront-ui/vue";
+import { SfSection } from "@highdigital/vuet";
 export default {
   title: "Components/Molecules/Section",
   component: SfSection,

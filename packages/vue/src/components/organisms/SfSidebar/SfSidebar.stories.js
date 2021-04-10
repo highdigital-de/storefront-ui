@@ -1,4 +1,4 @@
-import { SfSidebar } from "@storefront-ui/vue";
+import { SfSidebar } from "@highdigital/vuet";
 export default {
   title: "Components/Organisms/Sidebar",
   component: SfSidebar,

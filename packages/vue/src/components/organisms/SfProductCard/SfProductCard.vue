@@ -142,7 +142,7 @@
   </div>
 </template>
 <script>
-import { colorsValues as SF_COLORS } from "@storefront-ui/shared/variables/colors";
+import { colorsValues as SF_COLORS } from "@highdigital/sharedt/variables/colors";
 import SfIcon from "../../atoms/SfIcon/SfIcon.vue";
 import SfPrice from "../../atoms/SfPrice/SfPrice.vue";
 import SfRating from "../../atoms/SfRating/SfRating.vue";
@@ -346,5 +346,5 @@ export default {
 };
 </script>
 <style lang="scss">
-@import "~@storefront-ui/shared/styles/components/organisms/SfProductCard.scss";
+@import "~@highdigital/sharedt/styles/components/organisms/SfProductCard.scss";
 </style>

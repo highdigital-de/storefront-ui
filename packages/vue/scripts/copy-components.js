@@ -121,7 +121,7 @@ function removeFiles(names, path, flat) {
       if (err) {
         return console.log(err);
       }
-      data = data.replace("~@storefront-ui/shared/", "storefrontUI/styles/");
+      data = data.replace("~@highdigital/sharedt/", "storefrontUI/styles/");
       data = data.replace(
         /\"{1}\@{1}storefront\-ui\/shared/g,
         '"../../../../styles'

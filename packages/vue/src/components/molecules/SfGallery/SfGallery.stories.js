@@ -1,4 +1,4 @@
-import { SfGallery } from "@storefront-ui/vue";
+import { SfGallery } from "@highdigital/vuet";
 
 export default {
   title: "Components/Molecules/Gallery",

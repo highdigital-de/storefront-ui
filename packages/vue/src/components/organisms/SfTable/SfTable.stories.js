@@ -1,4 +1,4 @@
-import { SfTable, SfButton } from "@storefront-ui/vue";
+import { SfTable, SfButton } from "@highdigital/vuet";
 export default {
   title: "Components/Organisms/Table",
   component: SfTable,

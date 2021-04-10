@@ -1,4 +1,4 @@
-import { SfTile } from "@storefront-ui/vue";
+import { SfTile } from "@highdigital/vuet";
 
 export default {
   title: "Components/Molecules/Tile",

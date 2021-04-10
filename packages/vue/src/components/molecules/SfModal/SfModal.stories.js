@@ -1,4 +1,4 @@
-import { SfModal } from "@storefront-ui/vue";
+import { SfModal } from "@highdigital/vuet";
 export default {
   title: "Components/Molecules/Modal",
   component: SfModal,

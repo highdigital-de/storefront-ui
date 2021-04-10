@@ -401,7 +401,7 @@ import {
   SfProperty,
   SfRadio,
   SfSelect,
-} from "@storefront-ui/vue";
+} from "@highdigital/vuet";
 export default {
   components: {
     SfHeading,
@@ -683,7 +683,7 @@ export default {
 };
 </script>
 <style lang="scss" scoped>
-@import "~@storefront-ui/vue/styles";
+@import "~@highdigital/vuet/styles";
 #category {
   box-sizing: border-box;
   @include for-desktop {

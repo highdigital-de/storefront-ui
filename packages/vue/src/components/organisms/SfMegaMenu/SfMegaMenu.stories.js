@@ -1,4 +1,4 @@
-import { SfMegaMenu, SfList, SfMenuItem, SfBanner } from "@storefront-ui/vue";
+import { SfMegaMenu, SfList, SfMenuItem, SfBanner } from "@highdigital/vuet";
 import "./SfMegaMenu.stories.scss";
 
 const categories = [

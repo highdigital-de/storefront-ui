@@ -1,4 +1,4 @@
-import { SfChevron, SfIcon } from "@storefront-ui/vue";
+import { SfChevron, SfIcon } from "@highdigital/vuet";
 
 export default {
   title: "Components/Atoms/Chevron",

@@ -1,4 +1,4 @@
-import { SfScrollable, SfProductOption } from "@storefront-ui/vue";
+import { SfScrollable, SfProductOption } from "@highdigital/vuet";
 
 const options = [
   {

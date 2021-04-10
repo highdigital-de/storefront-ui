@@ -244,7 +244,7 @@ import {
   SfRadio,
   SfImage,
   SfCheckbox,
-} from "@storefront-ui/vue";
+} from "@highdigital/vuet";
 import axios from "axios";
 export default {
   name: "Payment",
@@ -389,7 +389,7 @@ export default {
 };
 </script>
 <style lang="scss" scoped>
-@import "~@storefront-ui/vue/styles";
+@import "~@highdigital/vuet/styles";
 .title {
   --heading-padding: var(--spacer-xl) 0 var(--spacer-lg);
   --heading-title-font-weight: var(--font-weight--bold);

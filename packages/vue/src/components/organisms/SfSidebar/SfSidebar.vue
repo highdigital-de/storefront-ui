@@ -201,5 +201,5 @@ export default {
 };
 </script>
 <style lang="scss">
-@import "~@storefront-ui/shared/styles/components/organisms/SfSidebar.scss";
+@import "~@highdigital/sharedt/styles/components/organisms/SfSidebar.scss";
 </style>

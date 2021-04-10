@@ -1,4 +1,4 @@
-import { SfReview } from "@storefront-ui/vue";
+import { SfReview } from "@highdigital/vuet";
 export default {
   title: "Components/Molecules/Review",
   component: SfReview,

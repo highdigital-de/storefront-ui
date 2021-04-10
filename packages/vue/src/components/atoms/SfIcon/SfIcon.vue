@@ -32,9 +32,9 @@
   </div>
 </template>
 <script>
-import icons from "@storefront-ui/shared/icons/icons";
-import { iconColorsValues as SF_COLORS } from "@storefront-ui/shared/variables/colors";
-import { sizesValues as SF_SIZES } from "@storefront-ui/shared/variables/sizes";
+import icons from "@highdigital/sharedt/icons/icons";
+import { iconColorsValues as SF_COLORS } from "@highdigital/sharedt/variables/colors";
+import { sizesValues as SF_SIZES } from "@highdigital/sharedt/variables/sizes";
 const SF_ICONS = Object.keys(icons);
 
 const fillPathUrl = (index) => `url(#${index})`;
@@ -134,5 +134,5 @@ export default {
 };
 </script>
 <style lang="scss">
-@import "~@storefront-ui/shared/styles/components/atoms/SfIcon.scss";
+@import "~@highdigital/sharedt/styles/components/atoms/SfIcon.scss";
 </style>

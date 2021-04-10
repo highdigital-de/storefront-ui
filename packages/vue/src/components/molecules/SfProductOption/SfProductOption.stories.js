@@ -1,4 +1,4 @@
-import { SfProductOption } from "@storefront-ui/vue";
+import { SfProductOption } from "@highdigital/vuet";
 export default {
   title: "Components/Molecules/ProductOption",
   component: SfProductOption,

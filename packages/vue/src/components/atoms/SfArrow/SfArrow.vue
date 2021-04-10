@@ -37,5 +37,5 @@ export default {
 };
 </script>
 <style lang="scss">
-@import "~@storefront-ui/shared/styles/components/atoms/SfArrow.scss";
+@import "~@highdigital/sharedt/styles/components/atoms/SfArrow.scss";
 </style>

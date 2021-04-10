@@ -1,4 +1,4 @@
-import { SfBullets } from "@storefront-ui/vue";
+import { SfBullets } from "@highdigital/vuet";
 
 export default {
   title: "Components/Atoms/Bullets",

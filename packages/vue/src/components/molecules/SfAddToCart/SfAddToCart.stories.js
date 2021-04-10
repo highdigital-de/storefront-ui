@@ -1,4 +1,4 @@
-import { SfAddToCart } from "@storefront-ui/vue";
+import { SfAddToCart } from "@highdigital/vuet";
 
 export default {
   title: "Components/Molecules/AddToCart",

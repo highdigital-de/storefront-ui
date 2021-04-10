@@ -165,5 +165,5 @@ export default {
 };
 </script>
 <style lang="scss">
-@import "~@storefront-ui/shared/styles/components/molecules/SfModal.scss";
+@import "~@highdigital/sharedt/styles/components/molecules/SfModal.scss";
 </style>

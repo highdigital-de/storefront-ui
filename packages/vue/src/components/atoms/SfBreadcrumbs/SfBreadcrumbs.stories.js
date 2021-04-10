@@ -1,4 +1,4 @@
-import { SfBreadcrumbs } from "@storefront-ui/vue";
+import { SfBreadcrumbs } from "@highdigital/vuet";
 
 export default {
   title: "Components/Atoms/Breadcrumbs",

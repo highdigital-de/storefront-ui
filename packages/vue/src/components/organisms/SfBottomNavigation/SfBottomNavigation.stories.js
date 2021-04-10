@@ -1,4 +1,4 @@
-import { SfBottomNavigation, SfCircleIcon, SfIcon } from "@storefront-ui/vue";
+import { SfBottomNavigation, SfCircleIcon, SfIcon } from "@highdigital/vuet";
 export default {
   title: "Components/Organisms/BottomNavigation",
   component: SfBottomNavigation,

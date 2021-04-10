@@ -95,7 +95,7 @@ import {
   SfButton,
   SfCharacteristic,
   SfInput,
-} from "@storefront-ui/vue";
+} from "@highdigital/vuet";
 export default {
   name: "OrderReview",
   components: {
@@ -152,7 +152,7 @@ export default {
 };
 </script>
 <style lang="scss" scoped>
-@import "~@storefront-ui/vue/styles";
+@import "~@highdigital/vuet/styles";
 .title {
   --heading-title-margin: 0 0 var(--spacer-xl) 0;
   --heading-title-font-weight: var(--font-weight--bold);

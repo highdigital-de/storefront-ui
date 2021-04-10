@@ -12,14 +12,14 @@
   </SfTabs>
 </template>
 <script>
-import { SfTabs } from "@storefront-ui/vue";
+import { SfTabs } from "@highdigital/vuet";
 export default {
   name: "MyReviews",
   components: { SfTabs },
 };
 </script>
 <style lang="scss" scoped>
-@import "~@storefront-ui/vue/styles";
+@import "~@highdigital/vuet/styles";
 .tab-orphan {
   @include for-mobile {
     --tabs-title-display: none;

@@ -1,5 +1,5 @@
-import { SfMenuItem, SfIcon } from "@storefront-ui/vue";
-import { icons } from "@storefront-ui/shared/icons/icons";
+import { SfMenuItem, SfIcon } from "@highdigital/vuet";
+import { icons } from "@highdigital/sharedt/icons/icons";
 const iconsNames = Object.keys(icons);
 
 export default {

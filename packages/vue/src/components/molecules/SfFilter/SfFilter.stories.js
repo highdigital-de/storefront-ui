@@ -1,4 +1,4 @@
-import { SfFilter } from "@storefront-ui/vue";
+import { SfFilter } from "@highdigital/vuet";
 
 export default {
   title: "Components/Molecules/Filter",

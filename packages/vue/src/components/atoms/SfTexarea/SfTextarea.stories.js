@@ -1,4 +1,4 @@
-import { SfTextarea } from "@storefront-ui/vue";
+import { SfTextarea } from "@highdigital/vuet";
 
 export default {
   title: "Components/Atoms/Textarea",

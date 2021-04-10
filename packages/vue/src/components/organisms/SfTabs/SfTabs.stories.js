@@ -1,4 +1,4 @@
-import { SfTabs, SfButton } from "@storefront-ui/vue";
+import { SfTabs, SfButton } from "@highdigital/vuet";
 export default {
   title: "Components/Organisms/Tabs",
   component: SfTabs,

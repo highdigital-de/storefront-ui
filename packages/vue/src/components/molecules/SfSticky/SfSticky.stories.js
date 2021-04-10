@@ -1,4 +1,4 @@
-import { SfSticky } from "@storefront-ui/vue";
+import { SfSticky } from "@highdigital/vuet";
 export default {
   title: "Components/Molecules/Sticky",
   component: SfSticky,

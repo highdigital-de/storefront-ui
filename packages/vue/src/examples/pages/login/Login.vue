@@ -88,7 +88,7 @@ import {
   SfButton,
   SfCheckbox,
   SfHeading,
-} from "@storefront-ui/vue";
+} from "@highdigital/vuet";
 export default {
   name: "Login",
   components: {
@@ -127,7 +127,7 @@ export default {
 };
 </script>
 <style lang="scss" scoped>
-@import "~@storefront-ui/vue/styles";
+@import "~@highdigital/vuet/styles";
 .modal-content,
 .aside {
   display: flex;

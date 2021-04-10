@@ -1,4 +1,4 @@
-import { SfBanner } from "@storefront-ui/vue";
+import { SfBanner } from "@highdigital/vuet";
 import banner from "../../../../public/assets/storybook/SfBanner/Banner2.jpg";
 
 export default {

@@ -1,4 +1,4 @@
-import { SfSteps } from "@storefront-ui/vue";
+import { SfSteps } from "@highdigital/vuet";
 export default {
   title: "Components/Molecules/Steps",
   component: SfSteps,

@@ -4,7 +4,7 @@ import {
   SfImage,
   SfList,
   SfCharacteristic,
-} from "@storefront-ui/vue";
+} from "@highdigital/vuet";
 
 export default {
   title: "Components/Molecules/BottomModal",

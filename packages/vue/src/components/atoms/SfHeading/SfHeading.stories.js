@@ -1,4 +1,4 @@
-import { SfHeading, SfIcon } from "@storefront-ui/vue";
+import { SfHeading, SfIcon } from "@highdigital/vuet";
 
 export default {
   title: "Components/Atoms/Heading",

@@ -3,7 +3,7 @@ import {
   SfSelect,
   SfProductOption,
   SfButton,
-} from "@storefront-ui/vue";
+} from "@highdigital/vuet";
 
 const selectOptions = {
   size: {

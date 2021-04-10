@@ -159,5 +159,5 @@ export default {
 };
 </script>
 <style lang="scss">
-@import "~@storefront-ui/shared/styles/components/organisms/SfContentPages.scss";
+@import "~@highdigital/sharedt/styles/components/organisms/SfContentPages.scss";
 </style>

@@ -59,7 +59,7 @@
             <SfImage
               alt="Empty bag"
               class="empty-cart__image"
-              :src="require('@storefront-ui/shared/icons/empty_cart.svg')"
+              :src="require('@highdigital/sharedt/icons/empty_cart.svg')"
             />
             <SfHeading
               title="Your cart is empty"
@@ -105,7 +105,7 @@ import {
   SfPrice,
   SfImage,
   SfCollectedProduct,
-} from "@storefront-ui/vue";
+} from "@highdigital/vuet";
 export default {
   name: "Cart",
   components: {
@@ -185,7 +185,7 @@ export default {
 };
 </script>
 <style lang="scss" scoped>
-@import "~@storefront-ui/vue/styles";
+@import "~@highdigital/vuet/styles";
 #cart {
   @include for-desktop {
     & > * {

@@ -1,4 +1,4 @@
-import { SfList, SfMenuItem } from "@storefront-ui/vue";
+import { SfList, SfMenuItem } from "@highdigital/vuet";
 export default {
   title: "Components/Organisms/List",
   component: SfList,

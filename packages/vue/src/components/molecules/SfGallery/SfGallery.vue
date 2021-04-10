@@ -251,5 +251,5 @@ export default {
 };
 </script>
 <style lang="scss">
-@import "~@storefront-ui/shared/styles/components/molecules/SfGallery.scss";
+@import "~@highdigital/sharedt/styles/components/molecules/SfGallery.scss";
 </style>

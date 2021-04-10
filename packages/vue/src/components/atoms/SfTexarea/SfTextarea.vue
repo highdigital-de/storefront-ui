@@ -161,5 +161,5 @@ export default {
 };
 </script>
 <style lang="scss">
-@import "~@storefront-ui/shared/styles/components/atoms/SfTextarea.scss";
+@import "~@highdigital/sharedt/styles/components/atoms/SfTextarea.scss";
 </style>

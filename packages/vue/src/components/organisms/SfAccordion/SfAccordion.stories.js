@@ -1,4 +1,4 @@
-import { SfAccordion, SfList, SfMenuItem } from "@storefront-ui/vue";
+import { SfAccordion, SfList, SfMenuItem } from "@highdigital/vuet";
 
 const accordions = [
   {

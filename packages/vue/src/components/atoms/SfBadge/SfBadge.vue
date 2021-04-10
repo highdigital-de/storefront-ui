@@ -15,5 +15,5 @@ export default {
 };
 </script>
 <style lang="scss">
-@import "~@storefront-ui/shared/styles/components/atoms/SfBadge.scss";
+@import "~@highdigital/sharedt/styles/components/atoms/SfBadge.scss";
 </style>

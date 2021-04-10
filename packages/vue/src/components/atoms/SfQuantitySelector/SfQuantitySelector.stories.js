@@ -1,4 +1,4 @@
-import { SfQuantitySelector } from "@storefront-ui/vue";
+import { SfQuantitySelector } from "@highdigital/vuet";
 
 export default {
   title: "Components/Atoms/QuantitySelector",

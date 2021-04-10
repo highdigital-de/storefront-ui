@@ -235,7 +235,7 @@ import {
   SfComponentSelect,
   SfButton,
   SfRadio,
-} from "@storefront-ui/vue";
+} from "@highdigital/vuet";
 export default {
   name: "Default",
   components: {
@@ -429,7 +429,7 @@ export default {
 };
 </script>
 <style lang="scss" scoped>
-@import "~@storefront-ui/vue/styles";
+@import "~@highdigital/vuet/styles";
 #form-template {
   box-sizing: border-box;
   padding: 0 var(--spacer-sm);

@@ -1,4 +1,4 @@
-import { SfColor } from "@storefront-ui/vue";
+import { SfColor } from "@highdigital/vuet";
 
 export default {
   title: "Components/Atoms/Color",

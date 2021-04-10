@@ -191,14 +191,14 @@
             <div class="producttiles">
               <div class="tile">
                 <img
-                  src="~@storefront-ui/vue/public/assets/storybook/images/210224_Kacheln_800x800_Ing_final112.png"
+                  src="~@highdigital/vuet/public/assets/storybook/images/210224_Kacheln_800x800_Ing_final112.png"
                   width="100%"
                   height="auto"
                 />
               </div>
               <div class="tile">
                 <img
-                  src="~@storefront-ui/vue/public/assets/storybook/images/210224_Kacheln_800x800_Ing_final112.png"
+                  src="~@highdigital/vuet/public/assets/storybook/images/210224_Kacheln_800x800_Ing_final112.png"
                   width="100%"
                   height="auto"
                 />
@@ -211,14 +211,14 @@
             <div class="producttiles">
               <div class="tile">
                 <img
-                  src="~@storefront-ui/vue/public/assets/storybook/images/210224_Kacheln_800x800_Ing_final117.png"
+                  src="~@highdigital/vuet/public/assets/storybook/images/210224_Kacheln_800x800_Ing_final117.png"
                   width="100%"
                   height="auto"
                 />
               </div>
               <div class="tile">
                 <img
-                  src="~@storefront-ui/vue/public/assets/storybook/images/210224_Kacheln_800x800_Ing_final117.png"
+                  src="~@highdigital/vuet/public/assets/storybook/images/210224_Kacheln_800x800_Ing_final117.png"
                   width="100%"
                   height="auto"
                 />
@@ -406,7 +406,7 @@
         <div class="col-4">
           <div class="certification">
             <img
-              src="~@storefront-ui/vue/public/assets/storybook/images/logo_bafin.png"
+              src="~@highdigital/vuet/public/assets/storybook/images/logo_bafin.png"
             />
             <p>
               {{
@@ -416,7 +416,7 @@
           </div>
           <div class="certification">
             <img
-              src="~@storefront-ui/vue/public/assets/storybook/images/logo_lbdo.png"
+              src="~@highdigital/vuet/public/assets/storybook/images/logo_lbdo.png"
             />
             <p>
               {{
@@ -426,7 +426,7 @@
           </div>
           <div class="certification">
             <img
-              src="~@storefront-ui/vue/public/assets/storybook/images/logo_sap.png"
+              src="~@highdigital/vuet/public/assets/storybook/images/logo_sap.png"
             />
             <p>
               {{ "Wir arbeiten auf  SAP S4/HANA und sind SAP zertifiziert." }}
@@ -434,7 +434,7 @@
           </div>
           <div class="certification">
             <img
-              src="~@storefront-ui/vue/public/assets/storybook/images/logo_sap-certified.png"
+              src="~@highdigital/vuet/public/assets/storybook/images/logo_sap-certified.png"
             />
             <p>
               {{
@@ -625,7 +625,7 @@
   </div>
 </template>
 <script>
-import { SfButton, SfHero } from "@storefront-ui/vue";
+import { SfButton, SfHero } from "@highdigital/vuet";
 export default {
   name: "Home",
   components: {
@@ -811,7 +811,7 @@ export default {
 };
 </script>
 <style lang="scss" scoped>
-@import "~@storefront-ui/vue/styles";
+@import "~@highdigital/vuet/styles";
 #home {
   box-sizing: border-box;
   padding: 0 var(--spacer-sm);
@@ -880,7 +880,7 @@ section.offset-y {
   padding: 0 45px;
 }
 .benefits span:before {
-  content: url("~@storefront-ui/vue/public/assets/storybook/icons/icon_checkmark_large.svg");
+  content: url("~@highdigital/vuet/public/assets/storybook/icons/icon_checkmark_large.svg");
   position: relative;
   top: 20px;
 }
@@ -897,12 +897,12 @@ ul.minus li {
   position: relative;
 }
 ul.features li:before {
-  content: url("~@storefront-ui/vue/public/assets/storybook/icons/icon_plus.svg");
+  content: url("~@highdigital/vuet/public/assets/storybook/icons/icon_plus.svg");
   left: -48px;
   position: absolute;
 }
 ul.checked li:before {
-  content: url("~@storefront-ui/vue/public/assets/storybook/icons/icon_checkmark_large.svg");
+  content: url("~@highdigital/vuet/public/assets/storybook/icons/icon_checkmark_large.svg");
   left: -48px;
   position: absolute;
 }
@@ -920,7 +920,7 @@ ul.minus li {
   margin-right: 32px;
 }
 ul.minus li:before {
-  content: url("~@storefront-ui/vue/public/assets/storybook/icons/icon_minus.svg");
+  content: url("~@highdigital/vuet/public/assets/storybook/icons/icon_minus.svg");
   left: -48px;
   position: absolute;
   top: 16px;
@@ -933,7 +933,7 @@ ul.minus li p {
   margin: 8px 0;
 }
 div.checked:before {
-  content: url("~@storefront-ui/vue/public/assets/storybook/icons/icon_checkmark_large.svg");
+  content: url("~@highdigital/vuet/public/assets/storybook/icons/icon_checkmark_large.svg");
 }
 .steps {
   display: flex;
@@ -964,7 +964,7 @@ div.checked:before {
   font-size: var(--font-size--xl);
 }
 .steps .arrow {
-  content: url("~@storefront-ui/vue/public/assets/storybook/icons/icon_arrow-horizontal.svg");
+  content: url("~@highdigital/vuet/public/assets/storybook/icons/icon_arrow-horizontal.svg");
   display: inline-block;
   padding: 0 48px;
 }
@@ -984,7 +984,7 @@ div.checked:before {
   width: 160px;
 }
 .rounded-img-container {
-  background: url("~@storefront-ui/vue/public/assets/storybook/images/anita-richter_1200.jpg");
+  background: url("~@highdigital/vuet/public/assets/storybook/images/anita-richter_1200.jpg");
   border-radius: 50% 0 0 50%;
   height: 720px;
   overflow: hidden;

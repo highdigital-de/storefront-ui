@@ -3,9 +3,9 @@
 </template>
 <script>
 export default {
-  name: "ComponentNameCamelCase"
+  name: "ComponentNameCamelCase",
 };
 </script>
 <style lang="scss">
-@import "~@storefront-ui/shared/styles/components/ComponentFolder/ComponentNameCamelCase.scss";
+@import "~@highdigital/sharedt/styles/components/ComponentFolder/ComponentNameCamelCase.scss";
 </style>

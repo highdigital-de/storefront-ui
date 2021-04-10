@@ -1,4 +1,4 @@
-import { SfCheckbox } from "@storefront-ui/vue";
+import { SfCheckbox } from "@highdigital/vuet";
 
 export default {
   title: "Components/Molecules/Checkbox",

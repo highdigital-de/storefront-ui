@@ -1,4 +1,4 @@
-import { SfContentPages, SfTabs } from "@storefront-ui/vue";
+import { SfContentPages, SfTabs } from "@highdigital/vuet";
 const pages = [
   {
     title: "About us",

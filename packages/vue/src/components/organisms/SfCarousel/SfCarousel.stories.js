@@ -1,4 +1,4 @@
-import { SfCarousel } from "@storefront-ui/vue";
+import { SfCarousel } from "@highdigital/vuet";
 export default {
   title: "Components/Organisms/Carousel",
   component: SfCarousel,

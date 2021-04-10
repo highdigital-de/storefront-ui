@@ -1,4 +1,4 @@
-import { SfAlert } from "@storefront-ui/vue";
+import { SfAlert } from "@highdigital/vuet";
 
 export default {
   title: "Components/Molecules/Alert",

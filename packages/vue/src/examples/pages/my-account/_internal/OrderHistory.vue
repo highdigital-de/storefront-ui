@@ -57,7 +57,7 @@
   </SfTabs>
 </template>
 <script>
-import { SfTabs, SfTable, SfButton } from "@storefront-ui/vue";
+import { SfTabs, SfTable, SfButton } from "@highdigital/vuet";
 export default {
   name: "PersonalDetails",
   components: {
@@ -90,7 +90,7 @@ export default {
 };
 </script>
 <style lang="scss" scoped>
-@import "~@storefront-ui/vue/styles";
+@import "~@highdigital/vuet/styles";
 .no-orders {
   &__title {
     margin: 0 0 var(--spacer-base) 0;

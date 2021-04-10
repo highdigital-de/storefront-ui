@@ -1,4 +1,4 @@
-import { SfStoreLocator } from "@storefront-ui/vue";
+import { SfStoreLocator } from "@highdigital/vuet";
 
 export default {
   title: "Components/Organisms/StoreLocator",

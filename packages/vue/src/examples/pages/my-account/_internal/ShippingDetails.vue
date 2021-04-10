@@ -145,7 +145,7 @@ import {
   SfButton,
   SfComponentSelect,
   SfIcon,
-} from "@storefront-ui/vue";
+} from "@highdigital/vuet";
 export default {
   name: "ShippingDetails",
   components: {
@@ -275,7 +275,7 @@ export default {
 };
 </script>
 <style lang="scss" scoped>
-@import "~@storefront-ui/vue/styles";
+@import "~@highdigital/vuet/styles";
 .shipping-list {
   margin: 0 0 var(--spacer-base) 0;
 }

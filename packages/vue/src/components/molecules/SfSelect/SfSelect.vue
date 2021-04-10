@@ -112,5 +112,5 @@ export default {
 };
 </script>
 <style lang="scss">
-@import "~@storefront-ui/shared/styles/components/molecules/SfSelect.scss";
+@import "~@highdigital/sharedt/styles/components/molecules/SfSelect.scss";
 </style>

@@ -1,4 +1,4 @@
-import { SfBar } from "@storefront-ui/vue";
+import { SfBar } from "@highdigital/vuet";
 
 export default {
   title: "Components/Molecules/Bar",

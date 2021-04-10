@@ -113,7 +113,7 @@ import {
   SfPrice,
   SfProperty,
   SfLink,
-} from "@storefront-ui/vue";
+} from "@highdigital/vuet";
 export default {
   name: "ReviewOrder",
   components: {
@@ -197,7 +197,7 @@ export default {
 };
 </script>
 <style lang="scss" scoped>
-@import "~@storefront-ui/vue/styles";
+@import "~@highdigital/vuet/styles";
 .title {
   --heading-padding: var(--spacer-xl) 0 var(--spacer-base);
   --heading-title-font-weight: var(--font-weight--bold);

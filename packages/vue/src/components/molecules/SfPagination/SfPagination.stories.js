@@ -1,4 +1,4 @@
-import { SfPagination } from "@storefront-ui/vue";
+import { SfPagination } from "@highdigital/vuet";
 export default {
   title: "Components/Molecules/Pagination",
   component: SfPagination,

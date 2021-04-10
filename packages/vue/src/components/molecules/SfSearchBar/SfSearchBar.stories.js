@@ -1,4 +1,4 @@
-import { SfSearchBar } from "@storefront-ui/vue";
+import { SfSearchBar } from "@highdigital/vuet";
 export default {
   title: "Components/Molecules/SearchBar",
   component: SfSearchBar,

@@ -1,4 +1,4 @@
-import { SfCallToAction } from "@storefront-ui/vue";
+import { SfCallToAction } from "@highdigital/vuet";
 import image from "../../../../public/assets/storybook/Home/newsletter.jpg";
 
 export default {

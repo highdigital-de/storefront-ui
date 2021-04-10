@@ -1,5 +1,5 @@
 import Home from "./Home";
-import { SfHeader, SfLink } from "@storefront-ui/vue";
+import { SfHeader, SfLink } from "@highdigital/vuet";
 import dummy from "../../../stories/resources/main";
 
 export default {

@@ -170,7 +170,7 @@ import {
   SfProductOption,
   SfBreadcrumbs,
   SfNotification,
-} from "@storefront-ui/vue";
+} from "@highdigital/vuet";
 export default {
   name: "Product",
   components: {
@@ -350,7 +350,7 @@ export default {
 };
 </script>
 <style lang="scss" scoped>
-@import "~@storefront-ui/vue/styles";
+@import "~@highdigital/vuet/styles";
 #product {
   box-sizing: border-box;
   @include for-desktop {

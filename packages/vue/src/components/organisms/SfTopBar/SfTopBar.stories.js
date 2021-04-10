@@ -1,4 +1,4 @@
-import { SfTopBar, SfButton, SfImage } from "@storefront-ui/vue";
+import { SfTopBar, SfButton, SfImage } from "@highdigital/vuet";
 export default {
   title: "Components/Organisms/TopBar",
   component: SfTopBar,

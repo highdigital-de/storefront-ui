@@ -1,4 +1,4 @@
-import { SfBannerGrid, SfBanner } from "@storefront-ui/vue";
+import { SfBannerGrid, SfBanner } from "@highdigital/vuet";
 const banners = [
   {
     slot: "banner-A",

@@ -113,5 +113,5 @@ export default {
 };
 </script>
 <style lang="scss">
-@import "~@storefront-ui/shared/styles/components/organisms/SfMegaMenu.scss";
+@import "~@highdigital/sharedt/styles/components/organisms/SfMegaMenu.scss";
 </style>

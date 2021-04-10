@@ -2,7 +2,7 @@
   <div id="error">
     <SfImage
       class="image"
-      :src="require('@storefront-ui/shared/icons/error.svg')"
+      :src="require('@highdigital/sharedt/icons/error.svg')"
       alt="Page Not Found"
     />
     <SfHeading
@@ -22,14 +22,14 @@
   </div>
 </template>
 <script>
-import { SfButton, SfImage, SfHeading } from "@storefront-ui/vue";
+import { SfButton, SfImage, SfHeading } from "@highdigital/vuet";
 export default {
   name: "Error",
   components: { SfButton, SfImage, SfHeading },
 };
 </script>
 <style lang="scss" scoped>
-@import "~@storefront-ui/vue/styles";
+@import "~@highdigital/vuet/styles";
 #error {
   box-sizing: border-box;
   display: flex;

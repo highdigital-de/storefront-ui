@@ -1,4 +1,4 @@
-import { SfGroupedProduct, SfProperty } from "@storefront-ui/vue";
+import { SfGroupedProduct, SfProperty } from "@highdigital/vuet";
 export default {
   title: "Components/Organisms/GroupedProduct",
   component: SfGroupedProduct,

@@ -44,7 +44,7 @@
   </div>
 </template>
 <script>
-import { SfBreadcrumbs, SfContentPages } from "@storefront-ui/vue";
+import { SfBreadcrumbs, SfContentPages } from "@highdigital/vuet";
 import {
   MyProfile,
   ShippingDetails,
@@ -132,7 +132,7 @@ export default {
 };
 </script>
 <style lang="scss" scoped>
-@import "~@storefront-ui/vue/styles";
+@import "~@highdigital/vuet/styles";
 #my-account {
   box-sizing: border-box;
   @include for-desktop {

@@ -138,5 +138,5 @@ export default {
 };
 </script>
 <style lang="scss">
-@import "~@storefront-ui/shared/styles/components/organisms/SfCarousel.scss";
+@import "~@highdigital/sharedt/styles/components/organisms/SfCarousel.scss";
 </style>

@@ -7,7 +7,7 @@ import {
   SfMenuItem,
   SfInput,
   SfLink,
-} from "@storefront-ui/vue";
+} from "@highdigital/vuet";
 
 export default {
   title: "Components/Organisms/Footer",

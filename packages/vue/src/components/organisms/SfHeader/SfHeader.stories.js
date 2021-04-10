@@ -1,4 +1,4 @@
-import { SfHeader, SfLink } from "@storefront-ui/vue";
+import { SfHeader, SfLink } from "@highdigital/vuet";
 
 export default {
   title: "Components/Organisms/Header",

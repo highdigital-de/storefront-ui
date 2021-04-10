@@ -67,7 +67,7 @@ import {
   SfCharacteristic,
   SfProperty,
   SfDivider,
-} from "@storefront-ui/vue";
+} from "@highdigital/vuet";
 export default {
   name: "OrderSummary",
   components: {
@@ -153,7 +153,7 @@ export default {
 };
 </script>
 <style lang="scss" scoped>
-@import "~@storefront-ui/vue/styles";
+@import "~@highdigital/vuet/styles";
 .title {
   --heading-title-font-weight: var(--font-weight--bold);
   --heading-title-font-size: var(--h4-font-size);

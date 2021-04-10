@@ -141,7 +141,7 @@ import {
   SfButton,
   SfSelect,
   SfRadio,
-} from "@storefront-ui/vue";
+} from "@highdigital/vuet";
 export default {
   name: "Shipping",
   components: {
@@ -250,7 +250,7 @@ export default {
 };
 </script>
 <style lang="scss" scoped>
-@import "~@storefront-ui/vue/styles";
+@import "~@highdigital/vuet/styles";
 .title {
   --heading-padding: var(--spacer-xl) 0 var(--spacer-lg);
   --heading-title-font-weight: var(--font-weight--bold);

@@ -1,4 +1,4 @@
-import { SfDropdown, SfList, SfButton } from "@storefront-ui/vue";
+import { SfDropdown, SfList, SfButton } from "@highdigital/vuet";
 
 export default {
   title: "Components/Molecules/Dropdown",

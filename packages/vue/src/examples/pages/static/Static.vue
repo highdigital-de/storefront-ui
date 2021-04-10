@@ -45,7 +45,7 @@
   </div>
 </template>
 <script>
-import { SfContentPages, SfTabs, SfBreadcrumbs } from "@storefront-ui/vue";
+import { SfContentPages, SfTabs, SfBreadcrumbs } from "@highdigital/vuet";
 export default {
   name: "Static",
   components: {
@@ -144,7 +144,7 @@ export default {
 };
 </script>
 <style lang="scss" scoped>
-@import "~@storefront-ui/vue/styles";
+@import "~@highdigital/vuet/styles";
 #static {
   box-sizing: border-box;
   @include for-desktop {

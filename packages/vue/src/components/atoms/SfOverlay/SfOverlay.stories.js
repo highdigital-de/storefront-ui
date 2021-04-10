@@ -1,4 +1,4 @@
-import { SfOverlay } from "@storefront-ui/vue";
+import { SfOverlay } from "@highdigital/vuet";
 
 export default {
   title: "Components/Atoms/Overlay",

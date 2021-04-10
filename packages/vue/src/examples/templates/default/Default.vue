@@ -32,7 +32,7 @@
   </div>
 </template>
 <script>
-import { SfHeader, SfFooter, SfList, SfMenuItem } from "@storefront-ui/vue";
+import { SfHeader, SfFooter, SfList, SfMenuItem } from "@highdigital/vuet";
 import Home from "../../pages/home/Home.vue";
 export default {
   name: "Default",
@@ -71,7 +71,7 @@ export default {
 };
 </script>
 <style lang="scss" scoped>
-@import "~@storefront-ui/vue/styles";
+@import "~@highdigital/vuet/styles";
 #default {
 }
 </style>

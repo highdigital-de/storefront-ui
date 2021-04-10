@@ -1,4 +1,4 @@
-import { SfCard } from "@storefront-ui/vue";
+import { SfCard } from "@highdigital/vuet";
 import cardImg from "../../../../public/assets/storybook/SfCard/card.jpg";
 
 export default {

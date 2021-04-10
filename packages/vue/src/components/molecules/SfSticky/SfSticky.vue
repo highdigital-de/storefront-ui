@@ -140,5 +140,5 @@ export default {
 };
 </script>
 <style lang="scss">
-@import "~@storefront-ui/shared/styles/components/molecules/SfSticky.scss";
+@import "~@highdigital/sharedt/styles/components/molecules/SfSticky.scss";
 </style>

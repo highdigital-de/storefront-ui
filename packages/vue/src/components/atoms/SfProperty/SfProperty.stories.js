@@ -1,4 +1,4 @@
-import { SfProperty, SfBadge } from "@storefront-ui/vue";
+import { SfProperty, SfBadge } from "@highdigital/vuet";
 
 export default {
   title: "Components/Atoms/Property",

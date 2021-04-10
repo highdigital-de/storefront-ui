@@ -112,5 +112,5 @@ export default {
 };
 </script>
 <style lang="scss">
-@import "~@storefront-ui/shared/styles/components/organisms/SfGroupedProduct.scss";
+@import "~@highdigital/sharedt/styles/components/organisms/SfGroupedProduct.scss";
 </style>

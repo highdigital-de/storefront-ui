@@ -245,5 +245,5 @@ export default {
 };
 </script>
 <style lang="scss">
-@import "~@storefront-ui/shared/styles/components/organisms/SfHeader.scss";
+@import "~@highdigital/sharedt/styles/components/organisms/SfHeader.scss";
 </style>

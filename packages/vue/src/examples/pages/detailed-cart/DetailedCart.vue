@@ -70,7 +70,7 @@
           </div>
           <div v-else key="empty-cart" class="empty-cart">
             <SfImage
-              :src="require('@storefront-ui/shared/icons/empty_cart.svg')"
+              :src="require('@highdigital/sharedt/icons/empty_cart.svg')"
               alt="Empty cart"
               class="empty-cart__image"
             />
@@ -98,7 +98,7 @@ import {
   SfProperty,
   SfHeading,
   SfBreadcrumbs,
-} from "@storefront-ui/vue";
+} from "@highdigital/vuet";
 import { OrderSummary } from "./_internal/index.js";
 export default {
   name: "DetailedCart",
@@ -228,7 +228,7 @@ export default {
 };
 </script>
 <style lang="scss" scoped>
-@import "~@storefront-ui/vue/styles";
+@import "~@highdigital/vuet/styles";
 #detailed-cart {
   box-sizing: border-box;
   @include for-desktop {

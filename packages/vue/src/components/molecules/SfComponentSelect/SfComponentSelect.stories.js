@@ -1,4 +1,4 @@
-import { SfComponentSelect, SfProductOption } from "@storefront-ui/vue";
+import { SfComponentSelect, SfProductOption } from "@highdigital/vuet";
 const optionsList = [
   { value: "amaranth", color: "#E52B50", label: "Amaranth" },
   { value: "amber", color: "#FFBF00", label: "Amber" },

@@ -10,5 +10,5 @@ export default {
 };
 </script>
 <style lang="scss">
-@import "~@storefront-ui/shared/styles/components/atoms/SfDivider.scss";
+@import "~@highdigital/sharedt/styles/components/atoms/SfDivider.scss";
 </style>
