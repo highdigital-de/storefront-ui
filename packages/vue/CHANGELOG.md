@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.11.5](https://bitbucket.org/highdigitalde/storefront-ui-clearvat/compare/@highdigital/vuet@0.11.4...@highdigital/vuet@0.11.5) (2021-04-12)
+
+
+### Bug Fixes
+
+* image path in SfArrow ([7147697](https://bitbucket.org/highdigitalde/storefront-ui-clearvat/commits/71476972284d0ab51e0e60849c563251198ce15e))
+* remove not used components ([30a58bc](https://bitbucket.org/highdigitalde/storefront-ui-clearvat/commits/30a58bc2b3a22f9e7c613520c94298086c3f78cb))
+
+
+
+
+
 ## [0.11.4](https://bitbucket.org/highdigitalde/storefront-ui-clearvat/compare/@highdigital/vuet@0.11.3...@highdigital/vuet@0.11.4) (2021-04-10)
 
 **Note:** Version bump only for package @highdigital/vuet
