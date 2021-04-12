@@ -11,7 +11,7 @@
     <slot>
       <img
         class="sf-arrow__icon"
-        src="/assets/storybook/icons/icon_arrow-left.svg"
+        src="~/@highdigital/vuet/public/assets/storybook/icons/icon_arrow-left.svg"
       />
       <!--<component
         :is="injections.components.SfIcon"
